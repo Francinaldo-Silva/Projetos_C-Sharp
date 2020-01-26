@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_imc", "Calculadora_imc.csproj", "{55FCF4BB-3171-41CA-9FE6-D8686D74493E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FCF4BB-3171-41CA-9FE6-D8686D74493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FCF4BB-3171-41CA-9FE6-D8686D74493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FCF4BB-3171-41CA-9FE6-D8686D74493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FCF4BB-3171-41CA-9FE6-D8686D74493E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA07983-50C7-463E-A19F-BECD6C66D1AC}
+	EndGlobalSection
+EndGlobal

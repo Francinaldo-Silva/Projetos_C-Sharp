@@ -1,0 +1,9 @@
+C:\Users\franc\source\repos\Calculadora_imc\bin\Debug\Calculadora_imc.exe.config
+C:\Users\franc\source\repos\Calculadora_imc\bin\Debug\Calculadora_imc.exe
+C:\Users\franc\source\repos\Calculadora_imc\bin\Debug\Calculadora_imc.pdb
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.Form1.resources
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.Properties.Resources.resources
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.exe
+C:\Users\franc\source\repos\Calculadora_imc\obj\Debug\Calculadora_imc.pdb
