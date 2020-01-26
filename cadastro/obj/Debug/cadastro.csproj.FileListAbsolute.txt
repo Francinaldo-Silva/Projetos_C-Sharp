@@ -1,0 +1,9 @@
+C:\Users\franc\source\repos\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\franc\source\repos\cadastro\bin\Debug\cadastro.exe
+C:\Users\franc\source\repos\cadastro\bin\Debug\cadastro.pdb
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.Form1.resources
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.exe
+C:\Users\franc\source\repos\cadastro\obj\Debug\cadastro.pdb
