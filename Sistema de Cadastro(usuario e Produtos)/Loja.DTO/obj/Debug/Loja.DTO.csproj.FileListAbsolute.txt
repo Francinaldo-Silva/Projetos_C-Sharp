@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\obj\Debug\Loja.DTO.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.DTO\bin\Debug\Loja.DTO.dll.config

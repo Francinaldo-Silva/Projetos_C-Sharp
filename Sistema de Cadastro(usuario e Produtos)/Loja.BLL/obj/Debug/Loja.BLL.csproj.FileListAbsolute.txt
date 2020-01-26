@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.BLL.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.BLL.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DAL.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DTO.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DAL.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DTO.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\obj\Debug\Loja.BLL.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\obj\Debug\Loja.BLL.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DAL.dll.config
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Sistema de Cadastro\Loja.BLL\bin\Debug\Loja.DTO.dll.config
