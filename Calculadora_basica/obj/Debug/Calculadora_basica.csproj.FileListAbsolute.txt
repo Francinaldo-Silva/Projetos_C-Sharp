@@ -1,0 +1,9 @@
+C:\Users\franc\source\repos\Calculadora_basica\bin\Debug\Calculadora_basica.exe.config
+C:\Users\franc\source\repos\Calculadora_basica\bin\Debug\Calculadora_basica.exe
+C:\Users\franc\source\repos\Calculadora_basica\bin\Debug\Calculadora_basica.pdb
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.Form1.resources
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.Properties.Resources.resources
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.exe
+C:\Users\franc\source\repos\Calculadora_basica\obj\Debug\Calculadora_basica.pdb
