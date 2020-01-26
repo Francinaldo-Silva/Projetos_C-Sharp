@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\Login\bin\Debug\Login.exe.config
+C:\Users\franc\source\repos\Login\bin\Debug\Login.exe
+C:\Users\franc\source\repos\Login\bin\Debug\Login.pdb
+C:\Users\franc\source\repos\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Login\obj\Debug\Login.Form1.resources
+C:\Users\franc\source\repos\Login\obj\Debug\Login.Form2.resources
+C:\Users\franc\source\repos\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\franc\source\repos\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Login\obj\Debug\Login.exe
+C:\Users\franc\source\repos\Login\obj\Debug\Login.pdb
